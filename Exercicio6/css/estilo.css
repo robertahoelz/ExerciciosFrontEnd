@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  header {
+   position: inherit; 
+  }
+
+  .titulo {
+    background-color: grey;
+    color: aliceblue;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .subtitulo {
+     background-color: rgb(189, 136, 22);
+     text-align: center;
+     margin-top: 20px;
+     margin-left: 10px;
+     margin-right: 10px;
+     margin-bottom: 10px;
+  }
+  main {
+    margin-left: 50px;
+  }
+  img {
+    max-width: 250px;
+    max-height: 250px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+  .receita {
+    margin-left: 40px;
+    list-style-type:circle;
+  }
+
+  p {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+
+  .modoPreparo {
+      margin-left: 40px;
+      
+  }

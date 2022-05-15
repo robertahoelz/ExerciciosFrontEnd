@@ -1,0 +1,30 @@
+.computador {
+    display: flex;
+    width: 60px;
+    height: 60px;
+    margin-left: 80px;
+}
+.cabecalho {
+    background-color: rgb(100, 137, 248);
+}
+tr {
+   height: 25px;
+}
+.rodape {
+    background-color: grey;
+    color: aliceblue;
+}
+
+.rodapeValor {
+    text-align: right;
+    font-weight: 800;
+}
+
+.data {
+    text-align: right;
+    font-weight: 800;
+}
+table {
+    margin-left: 400px;
+}
+

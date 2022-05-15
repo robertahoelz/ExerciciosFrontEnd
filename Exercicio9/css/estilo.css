@@ -1,0 +1,22 @@
+div {
+    width: 300px;
+    height: 200px;
+    margin: 30px;
+    background-color: grey;
+    color: grey;
+}
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: space-around;
+    column-gap: 750px;
+    
+}
+
+.div3 {
+    align-items: center;
+    margin-left: 100px
+}

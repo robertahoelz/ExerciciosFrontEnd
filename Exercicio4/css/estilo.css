@@ -1,0 +1,22 @@
+.titulo {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(66, 19, 110);
+}
+
+.imagem {
+    width: 10em;
+    height: 10rem;
+    margin: 3px;
+    border-radius: 100px;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 40rem;
+    margin-left: 26%;
+
+}

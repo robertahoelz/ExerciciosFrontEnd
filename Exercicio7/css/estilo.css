@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+}
+
+img {
+    display: flex;
+    align-items: center;
+    margin-left: 600px;
+    margin-right: 500px;
+   width: 20vw;
+   height: 20vh;
+}
+
+footer {
+    text-align: center;
+}
